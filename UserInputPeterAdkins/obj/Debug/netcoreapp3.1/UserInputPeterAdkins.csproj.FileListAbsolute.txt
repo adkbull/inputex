@@ -1,0 +1,11 @@
+C:\Users\13522\source\repos\UserInputPeterAdkins\bin\Debug\netcoreapp3.1\UserInputPeterAdkins.exe
+C:\Users\13522\source\repos\UserInputPeterAdkins\bin\Debug\netcoreapp3.1\UserInputPeterAdkins.deps.json
+C:\Users\13522\source\repos\UserInputPeterAdkins\bin\Debug\netcoreapp3.1\UserInputPeterAdkins.runtimeconfig.json
+C:\Users\13522\source\repos\UserInputPeterAdkins\bin\Debug\netcoreapp3.1\UserInputPeterAdkins.runtimeconfig.dev.json
+C:\Users\13522\source\repos\UserInputPeterAdkins\bin\Debug\netcoreapp3.1\UserInputPeterAdkins.dll
+C:\Users\13522\source\repos\UserInputPeterAdkins\bin\Debug\netcoreapp3.1\UserInputPeterAdkins.pdb
+C:\Users\13522\source\repos\UserInputPeterAdkins\obj\Debug\netcoreapp3.1\UserInputPeterAdkins.csprojAssemblyReference.cache
+C:\Users\13522\source\repos\UserInputPeterAdkins\obj\Debug\netcoreapp3.1\UserInputPeterAdkins.AssemblyInfoInputs.cache
+C:\Users\13522\source\repos\UserInputPeterAdkins\obj\Debug\netcoreapp3.1\UserInputPeterAdkins.AssemblyInfo.cs
+C:\Users\13522\source\repos\UserInputPeterAdkins\obj\Debug\netcoreapp3.1\UserInputPeterAdkins.dll
+C:\Users\13522\source\repos\UserInputPeterAdkins\obj\Debug\netcoreapp3.1\UserInputPeterAdkins.pdb
